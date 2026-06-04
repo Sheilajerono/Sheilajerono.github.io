@@ -43,20 +43,20 @@ section {
   max-width: 1000px;
   margin: auto;
   padding: 50px 20px;
-}
-
 .project-card {
   background: white;
-  padding: 25px;
+  padding: 35px;
   margin: 20px 0;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
 .project-card h3 {
   margin-top: 0;
 }
-
+h2 {
+    margin-bottom: 25px;
+}
 .links a {
   display: inline-block;
   margin-right: 12px;
